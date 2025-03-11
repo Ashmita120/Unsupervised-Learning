@@ -1,13 +1,13 @@
 
  # 📌 Unsupervised Learning 🎯  
 
-This repository contains a collection of **unsupervised learning projects** leveraging machine learning techniques such as **clustering, dimensionality reduction, and anomaly detection**. These projects are designed to extract meaningful insights from unlabeled data using algorithms like **K-Means, DBSCAN, PCA, Autoencoders**, and more.  
+This repository contains a collection of **unsupervised learning projects** leveraging machine learning techniques such as **clustering, dimensionality reduction, and recommendation system**. These projects are designed to extract meaningful insights from unlabeled data using algorithms like **K-Means, Apriori, PCA, Cosine Similarity**, and more.  
 
 ## 🚀 Projects Included  
 ✅ **Clustering:** Customer segmentation, document clustering, image segmentation  
-✅ **Dimensionality Reduction:** PCA, t-SNE, UMAP for high-dimensional data visualization  
-✅ **Anomaly Detection:** Fraud detection, network intrusion detection, outlier analysis  
-✅ **Association Rule Mining:** Market basket analysis using Apriori & FP-Growth  
+✅ **Dimensionality Reduction:** PCA, SVD, ICA for high-dimensional data visualization  
+✅ **Recommendation System:** Content-based-recommendation-engine for Relevant Products and Collaborative-Recommendation-Engine for Similar Customers.  
+✅ **Association Rule Mining:** Market basket analysis using Apriori  
 
 ## ⚙️ Tech Stack  
 - Python 🐍  
@@ -19,7 +19,7 @@ This repository contains a collection of **unsupervised learning projects** leve
 ## 📂 How to Use  
 1️⃣ Clone this repo:  
 ```bash  
-git clone https://github.com/yourusername/unsupervised-learning-projects.git  
+git clone https://github.com/ashmita120/unsupervised-learning-projects.git  
 ```  
 2️⃣ Install dependencies:  
 ```bash  
