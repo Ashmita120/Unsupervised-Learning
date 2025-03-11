@@ -1,12 +1,14 @@
 
  # 📌 Unsupervised Learning 🎯  
 
-This repository contains a collection of **unsupervised learning projects** leveraging machine learning techniques such as **clustering, dimensionality reduction, and recommendation system**. These projects are designed to extract meaningful insights from unlabeled data using algorithms like **K-Means, Apriori, PCA, Cosine Similarity**, and more.  
+This repository contains a collection of **unsupervised learning projects** leveraging machine learning techniques such as **clustering, dimensionality reduction and 
+recommendation system**. These projects are designed to extract meaningful insights from unlabeled data using algorithms like **K-Means, Apriori, PCA, Cosine Similarity**, etc.  
 
 ## 🚀 Projects Included  
 ✅ **Clustering:** Customer segmentation, document clustering, image segmentation  
 ✅ **Dimensionality Reduction:** PCA, SVD, ICA for high-dimensional data visualization  
-✅ **Recommendation System:** Content-based-recommendation-engine for Relevant Products and Collaborative-Recommendation-Engine for Similar Customers.  
+✅ **Recommendation System:** Content-based-recommendation-engine for Relevant Products and 
+                               Collaborative-Recommendation-Engine for Similar Customers.  
 ✅ **Association Rule Mining:** Market basket analysis using Apriori  
 
 ## ⚙️ Tech Stack  
